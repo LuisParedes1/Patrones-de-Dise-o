@@ -1,3 +1,5 @@
+// Example from https://refactoring.guru/design-patterns/adapter/java/example#example-0
+
 package org.example;
 
 import org.example.shapes.RoundHole;

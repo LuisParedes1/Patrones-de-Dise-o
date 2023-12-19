@@ -14,6 +14,6 @@ public class SquarePeg {
     }
 
     public double getSquare(){
-        return pow(this.width,2);
+        return pow(this.getWidth(),2);
     }
 }

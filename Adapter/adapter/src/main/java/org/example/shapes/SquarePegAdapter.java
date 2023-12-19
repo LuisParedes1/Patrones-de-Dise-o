@@ -1,11 +1,6 @@
 // Example from https://refactoring.guru/design-patterns/adapter/java/example#example-0
 
-package org.example;
-
-import org.example.RoundPeg;
-import org.example.SquarePeg;
-
-import static java.lang.Math.sqrt;
+package org.example.shapes;
 
 public class SquarePegAdapter extends RoundPeg {
     private SquarePeg peg;

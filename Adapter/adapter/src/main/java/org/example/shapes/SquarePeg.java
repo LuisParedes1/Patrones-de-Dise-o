@@ -1,11 +1,11 @@
-package org.example;
+package org.example.shapes;
 
 import static java.lang.Math.pow;
 
 public class SquarePeg {
     private double width;
 
-    SquarePeg(double width){
+    public SquarePeg(double width){
         this.width = width;
     }
 
